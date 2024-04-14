@@ -199,7 +199,7 @@ def display_raw_data(df):
         if raw == 'no':
             break
         elif raw == 'yes':
-            print(df) # TO DO: appropriately subset/slice your dataframe to display next five rows
+            print(df) # TO DO: appropriately subset/slice your data frame to display next five rows
             raw = input("Do you want to display raw data again? ").lower() # TO DO: convert the user input to lower case using lower() function
             i += 5
         else:
