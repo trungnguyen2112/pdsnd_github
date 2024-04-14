@@ -4,14 +4,18 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+BIKESHARE
 
 ### Description
-Describe what your project is about and what it does
+- Asks user to specify a city, month, and day to analyze.
+- Loads data for the specified city and filters by month and day if applicable.
+- Displays statistics on the most frequent times of travel.
+- Displays statistics on the most popular stations and trip.
+- Displays statistics on the total and average trip duration.
+- Displays statistics on bikeshare users.
+- Displays raw data.
 
 ### Files used
-Include the files used
+bikeshare.py
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
